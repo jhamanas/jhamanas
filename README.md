@@ -1,87 +1,130 @@
 # Hey, I'm Manas 👋
 
-### 💻 Computer Science Student | C++ • Python • Java • DSA • Web Development
+### 👨‍💻 Computer Science Student | Developer | Problem Solver
 
-I'm a Computer Science student interested in **software development, problem solving, and building projects that solve real-world problems**.
+I'm a Computer Science student passionate about **programming, problem solving, and software development**.
 
-Currently, I'm strengthening my programming fundamentals, practicing **Data Structures & Algorithms**, and learning development by building projects.
+I enjoy learning by building, experimenting with new technologies, and turning ideas into practical projects. Currently, I'm focused on **DSA with C++** while expanding my development skills.
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
 * 🎓 Computer Science student
-* 💻 Practicing **C++ & Data Structures and Algorithms**
+* 🧠 Focused on **Data Structures & Algorithms**
+* 💻 Practicing **C++** for problem solving
 * 🐍 Working with **Python**
 * ☕ Working with **Java**
-* 🌐 Learning **HTML & CSS**
+* 🌐 Building with **HTML & CSS**
 * 🔧 Using **Git & GitHub** for version control
-* 🚀 Exploring **Web Development & Software Development**
-* 🏆 Interested in **hackathons and collaborative projects**
+* 🚀 Exploring **Web & Software Development**
+* 🏆 Interested in **hackathons, open source & collaborative projects**
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java" />
+</p>
+
+### 🌐 Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 What I'm Working On
 
-### 📚 Data Structures & Algorithms
+**🧠 DSA & Problem Solving**
 
-Improving my problem-solving skills through consistent **DSA practice in C++**.
+Strengthening my problem-solving skills through consistent **Data Structures & Algorithms practice in C++**.
 
-### 🌐 Development
+**🌐 Development**
 
-Learning how to turn ideas into functional applications and gradually expanding my development skills.
+Learning how to design, build, and improve applications while expanding my development toolkit.
 
-### 🏆 Projects & Hackathons
+**🏗️ Projects**
 
-Building practical projects and working with teams to solve real-world problems.
+Building projects that help me turn concepts into practical experience and learn how real software is developed.
 
----
+**🏆 Hackathons**
 
-## 📌 Projects
-
-Check out my repositories to see my projects, experiments, and learning journey.
-
-🔗 **[Explore My Repositories →](https://github.com/jhamanas?tab=repositories)**
+Exploring hackathons and collaborative development to solve problems under real-world constraints.
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured
+
+I believe the best way to learn development is to **build things**.
+
+You'll find my repositories covering:
+
+* 🧩 DSA & programming practice
+* 🏗️ Development projects
+* 🧪 Experiments & learning projects
+* 🏆 Hackathon work
+
+👉 **[Explore my repositories](https://github.com/jhamanas?tab=repositories)**
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhamanas&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jhamanas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhamanas&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Focus
 
-* 🧠 Get stronger at **DSA & problem solving**
-* 💻 Build more **real-world projects**
-* 🌐 Improve my **development skills**
-* 🏆 Participate in more **hackathons**
-* 🤝 Explore **Open Source**
-* 📈 Grow as a **software developer**
+```text
+DSA & Problem Solving     ████████░░
+C++                       ████████░░
+Python                    ███████░░░
+Java                      ██████░░░░
+Web Development           ██████░░░░
+Projects                  ██████░░░░
+Open Source               ███░░░░░░░
+```
+
+> The goal isn't to know everything — it's to keep getting better.
 
 ---
 
-## 📈 My Learning Journey
+## 🌱 Learning Philosophy
 
 ```text
-Learn → Practice → Build → Debug → Improve → Repeat 🔁
+Learn
+  ↓
+Practice
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Repeat 🔁
 ```
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="left">
   <a href="https://github.com/jhamanas">
@@ -94,6 +137,6 @@ Learn → Practice → Build → Debug → Improve → Repeat 🔁
 
 ---
 
-### 🌱 Always learning. Always building.
+### 💭 *Keep learning. Keep building. Keep improving.*
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for stopping by!
