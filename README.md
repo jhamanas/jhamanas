@@ -1,4 +1,4 @@
-# Hey, I'm Manas Jha 👋
+# Hey, I'm Manas 👋
 
 ### 💻 Computer Science Student | C++ • Python • Java • DSA • Web Development
 
